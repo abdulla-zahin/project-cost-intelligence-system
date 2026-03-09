@@ -4,7 +4,9 @@ from io import BytesIO
 from pathlib import Path
 import textwrap
 
+import matplotlib
 import matplotlib.pyplot as plt
+matplotlib.use("Agg")
 import pandas as pd
 import streamlit as st
 from matplotlib.backends.backend_pdf import PdfPages
