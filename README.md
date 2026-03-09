@@ -161,7 +161,7 @@ streamlit run project2_v13.py
 
 You can try the tool here:
 
-https://your-app-name.streamlit.app
+(https://project-cost-intelligence-system-oetthbbujrrfmcqjxvxoau.streamlit.app/)
 
 ------------------------------------------------------------------------
 
