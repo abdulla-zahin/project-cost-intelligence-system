@@ -151,6 +151,17 @@ streamlit run project2_v13.py
     ├── README.md
     └── images
         └── dashboard.png
+    ├── runtime.txt
+    ├── .streamlit
+        └── config.toml
+
+------------------------------------------------------------------------
+
+## Live Application
+
+You can try the tool here:
+
+https://your-app-name.streamlit.app
 
 ------------------------------------------------------------------------
 
@@ -173,8 +184,8 @@ Tool**.
 
 Possible future improvements include:
 
--   Multi-project comparisons
--   Cost prediction models
--   Contractor performance analysis
+-   Professional UI upgrade
+-   Multi-project comparison
+-   AI-assisted cost intelligence
 -   Advanced financial dashboards
--   Web deployment
+-   Contractor performance analysis
