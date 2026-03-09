@@ -26,12 +26,12 @@ professional reports.
 Select a project type and automatically load recommended budget
 allocations for:
 
--   Materials\
--   Labor\
--   Transportation\
--   Office Expenses\
--   Salaries / Overheads\
--   Company Profit\
+-   Materials
+-   Labor
+-   Transportation
+-   Office Expenses
+-   Salaries / Overheads
+-   Company Profit
 -   Contingency
 
 You can adjust these percentages and instantly see how they affect the
@@ -45,9 +45,9 @@ Upload a **Bill of Quantities (BOQ)** file in CSV or Excel format.
 
 The system will automatically:
 
--   Calculate item costs\
--   Group expenses by category\
--   Compare **planned vs actual project costs**\
+-   Calculate item costs
+-   Group expenses by category
+-   Compare **planned vs actual project costs**
 -   Highlight cost-heavy areas
 
 ------------------------------------------------------------------------
@@ -56,8 +56,8 @@ The system will automatically:
 
 The dashboard generates clear visualizations including:
 
--   Budget distribution charts\
--   Category cost breakdown\
+-   Budget distribution charts
+-   Category cost breakdown
 -   BOQ comparison charts
 
 These visuals help engineers quickly understand project finances.
@@ -68,9 +68,9 @@ These visuals help engineers quickly understand project finances.
 
 Generate structured **Excel reports** containing:
 
--   Budget breakdown\
--   Allocation percentages\
--   BOQ analysis\
+-   Budget breakdown
+-   Allocation percentages
+-   BOQ analysis
 -   Financial insights
 
 ------------------------------------------------------------------------
@@ -79,9 +79,9 @@ Generate structured **Excel reports** containing:
 
 Create professional **PDF reports** including:
 
--   Project summary\
--   Budget insights\
--   Charts and visual analysis\
+-   Project summary
+-   Budget insights
+-   Charts and visual analysis
 -   Structured report sections
 
 Useful for presentations, internal documentation, and project review
@@ -96,9 +96,9 @@ spreadsheets that are difficult to analyze and visualize.
 
 This tool simplifies the process by combining:
 
--   Budget planning\
--   BOQ analysis\
--   Cost visualization\
+-   Budget planning
+-   BOQ analysis
+-   Cost visualization
 -   Automated reporting
 
 into one easy-to-use dashboard.
@@ -158,10 +158,10 @@ streamlit run project2_v13.py
 
 **Abdulla Zahin**
 
-LinkedIn\
+LinkedIn
 https://www.linkedin.com/in/abdulla-zahin-b4643315a/
 
-GitHub\
+GitHub
 https://github.com/abdulla-zahin
 
 ------------------------------------------------------------------------
@@ -173,8 +173,8 @@ Tool**.
 
 Possible future improvements include:
 
--   Multi-project comparisons\
--   Cost prediction models\
--   Contractor performance analysis\
--   Advanced financial dashboards\
+-   Multi-project comparisons
+-   Cost prediction models
+-   Contractor performance analysis
+-   Advanced financial dashboards
 -   Web deployment
