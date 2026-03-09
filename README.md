@@ -79,9 +79,9 @@ Generate structured **Excel reports** containing:
 
 Create professional **PDF reports** including:
 
--   Project summary\
--   Budget insights\
--   Charts and visual analysis\
+-   Project summary
+-   Budget insights
+-   Charts and visual analysis
 -   Structured report sections
 
 Useful for presentations, internal documentation, and project review
@@ -96,9 +96,9 @@ spreadsheets that are difficult to analyze and visualize.
 
 This tool simplifies the process by combining:
 
--   Budget planning\
--   BOQ analysis\
--   Cost visualization\
+-   Budget planning
+-   BOQ analysis
+-   Cost visualization
 -   Automated reporting
 
 into one easy-to-use dashboard.
@@ -158,10 +158,10 @@ streamlit run project2_v13.py
 
 **Abdulla Zahin**
 
-LinkedIn\
+LinkedIn
 https://www.linkedin.com/in/abdulla-zahin-b4643315a/
 
-GitHub\
+GitHub
 https://github.com/abdulla-zahin
 
 ------------------------------------------------------------------------
