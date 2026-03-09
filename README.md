@@ -1,117 +1,180 @@
-<h1 align="center">🏗️ Project Cost Intelligence System</h1>
+# 🏗️ Project Cost Intelligence System
 
-<p align="center">
-Engineering Budget Intelligence Tool for smarter project cost analysis.
-</p>
+### Engineering Budget Intelligence Tool
 
-<p align="center">
-Built to simplify engineering budgeting, BOQ analysis, and project cost reporting.
-</p>
+A simple tool designed to make **engineering budgeting and BOQ analysis
+easier**.
 
-<p align="center">
-<a href="https://github.com/abdulla-zahin/project-cost-intelligence-system">View Source</a> •
-<a href="https://www.linkedin.com/in/abdulla-zahin-b4643315a/">LinkedIn</a>
-</p>
-
-<p align="center">
-
-![Python](https://img.shields.io/badge/Python-3.9+-blue)
-![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red)
-![Status](https://img.shields.io/badge/Status-Active-success)
-
-</p>
-
----
+This project helps engineers, estimators, and project managers quickly
+understand project cost distribution, analyze BOQ data, and generate
+professional reports.
 
 > Built by an engineer who got tired of fighting spreadsheets at 2 AM.
 
----
+------------------------------------------------------------------------
 
-## Dashboard Preview
+## 📊 Dashboard Preview
 
 ![Dashboard](images/dashboard.png)
 
----
+------------------------------------------------------------------------
 
-## Features
+## 🚀 Features
 
 ### Smart Budget Allocation
 
-Choose a project type and automatically apply recommended budget allocations for:
+Select a project type and automatically load recommended budget
+allocations for:
 
-- Materials
-- Labor
-- Transportation
-- Office Expenses
-- Salaries / Overheads
-- Company Profit
-- Contingency
+-   Materials\
+-   Labor\
+-   Transportation\
+-   Office Expenses\
+-   Salaries / Overheads\
+-   Company Profit\
+-   Contingency
 
-You can adjust the percentages and instantly see the impact on the total project budget.
+You can adjust these percentages and instantly see how they affect the
+total project budget.
+
+------------------------------------------------------------------------
 
 ### BOQ Upload & Analysis
 
 Upload a **Bill of Quantities (BOQ)** file in CSV or Excel format.
 
-The system will:
+The system will automatically:
 
-- Calculate item costs
-- Group expenses by category
-- Compare **planned vs actual costs**
-- Highlight cost-heavy sections of the project
+-   Calculate item costs\
+-   Group expenses by category\
+-   Compare **planned vs actual project costs**\
+-   Highlight cost-heavy areas
+
+------------------------------------------------------------------------
 
 ### Visual Cost Insights
 
-The dashboard automatically generates:
+The dashboard generates clear visualizations including:
 
-- Budget distribution charts
-- Category cost breakdown
-- BOQ comparison visuals
+-   Budget distribution charts\
+-   Category cost breakdown\
+-   BOQ comparison charts
 
-Helping engineers understand project finances quickly.
+These visuals help engineers quickly understand project finances.
+
+------------------------------------------------------------------------
 
 ### Excel Report Export
 
-Generate a structured **Excel report** including:
+Generate structured **Excel reports** containing:
 
-- Budget allocations
-- Cost breakdown
-- BOQ analysis
-- Visual summaries
+-   Budget breakdown\
+-   Allocation percentages\
+-   BOQ analysis\
+-   Financial insights
 
-Perfect for internal documentation or cost review meetings.
+------------------------------------------------------------------------
 
 ### PDF Report Generation
 
-Create professional **PDF reports** containing:
+Create professional **PDF reports** including:
 
-- Project information
-- Budget insights
-- Charts and summaries
-- Structured reporting sections
+-   Project summary\
+-   Budget insights\
+-   Charts and visual analysis\
+-   Structured report sections
 
-Ideal for management presentations or client discussions.
+Useful for presentations, internal documentation, and project review
+meetings.
 
----
+------------------------------------------------------------------------
 
-## Why This Tool Exists
+## 💡 Why This Tool Exists
 
-Engineering project budgeting is often handled through complex spreadsheets that are difficult to analyze and visualize.
+Engineering project budgets are often handled through complex
+spreadsheets that are difficult to analyze and visualize.
 
-This tool was created to simplify the process by combining:
+This tool simplifies the process by combining:
 
-- budget planning
-- BOQ analysis
-- visual insights
-- automated reporting
+-   Budget planning\
+-   BOQ analysis\
+-   Cost visualization\
+-   Automated reporting
 
-into a single interface.
+into one easy-to-use dashboard.
 
----
+------------------------------------------------------------------------
 
-## Installation
+## ⚙️ Installation
 
 Clone the repository:
 
-```bash
+``` bash
 git clone https://github.com/abdulla-zahin/project-cost-intelligence-system.git
+```
+
+Move into the project folder:
+
+``` bash
+cd project-cost-intelligence-system
+```
+
+Install dependencies:
+
+``` bash
+pip install -r requirements.txt
+```
+
+Run the application:
+
+``` bash
+streamlit run project2_v13.py
+```
+
+------------------------------------------------------------------------
+
+## 📦 Requirements
+
+    streamlit
+    pandas
+    matplotlib
+    openpyxl
+
+------------------------------------------------------------------------
+
+## 📁 Project Structure
+
+    project-cost-intelligence-system
+    │
+    ├── project2_v13.py
+    ├── requirements.txt
+    ├── README.md
+    └── images
+        └── dashboard.png
+
+------------------------------------------------------------------------
+
+## 👨‍💻 Author
+
+**Abdulla Zahin**
+
+LinkedIn\
+https://www.linkedin.com/in/abdulla-zahin-b4643315a/
+
+GitHub\
+https://github.com/abdulla-zahin
+
+------------------------------------------------------------------------
+
+## 🔮 Future Improvements
+
+This is just the beginning of the **Engineering Budget Intelligence
+Tool**.
+
+Possible future improvements include:
+
+-   Multi-project comparisons\
+-   Cost prediction models\
+-   Contractor performance analysis\
+-   Advanced financial dashboards\
+-   Web deployment
